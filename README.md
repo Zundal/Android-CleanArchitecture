@@ -76,3 +76,13 @@ License
 [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-Android--CleanArchitecture-brightgreen.svg?style=flat)](https://android-arsenal.com/details/3/909)
 
 <a href="https://www.buymeacoffee.com/android10" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
+
+데이터 관리 data 폴더 안
+presentation 스크린 관리
+domain 비지니스 로직 관리
+
+romdatabase 폰 안에 데이터 저장
+db 폰안에 디비설치후 저장
+share data
+
+android studio to kotlin code 로 코드 컨버팅 기능있음
